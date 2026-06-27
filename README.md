@@ -5,6 +5,16 @@ Parking Management System
 
 A robust, full-stack PHP & MySQL web application designed to streamline urban parking management. The platform bridges the gap between drivers and parking spaces, allowing users to seamlessly book visual parking slots ahead of time and pay via digital methods (UPI/Razorpay), while granting admins granular control over locations, dynamic slot availability, and real-time revenue analytics.
 
+🤝 Collaborators
+
+| Name | GitHub |
+|------|--------|
+| Fenil Katkatiya | https://github.com/FENIL-KATKATIYA |
+| Paras Bagade | https://github.com/bagade-paras |
+
+> Developed collaboratively as a team project.
+
+
 🛠️ Tech Stack
 
 Backend: PHP , MySQL (Relational Database)
